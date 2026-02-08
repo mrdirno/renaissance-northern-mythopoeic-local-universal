@@ -1,0 +1,72 @@
+{
+  "book_id": "renaissance-northern-mythopoeic-local-universal",
+  "title": "The Fern in the Amber Heart",
+  "tagline": "In a city of commerce and shadow, a man who hears the wrong things must find a library of lost memory before the ice breaks and washes all secrets away.",
+  "target_words": 77847,
+  "actual_words": 77847,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Memory and Preservation",
+    "The Mundane and the Mythic",
+    "The Tension Between Local and Universal Knowledge",
+    "The Unseen and the Unheard"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Ice-Song of the Ouse",
+      "words": 7077
+    },
+    {
+      "ch": 2,
+      "title": "The Fern in the Amber",
+      "words": 7077
+    },
+    {
+      "ch": 3,
+      "title": "Rivers of Shadow and Commerce",
+      "words": 7077
+    },
+    {
+      "ch": 4,
+      "title": "The Archive of Cold Stone",
+      "words": 7077
+    },
+    {
+      "ch": 5,
+      "title": "The Mundane Poetry of Eggs",
+      "words": 7077
+    },
+    {
+      "ch": 6,
+      "title": "The Heartbeat as a Hole",
+      "words": 7077
+    },
+    {
+      "ch": 7,
+      "title": "A Coldness in the Blood",
+      "words": 7077
+    },
+    {
+      "ch": 8,
+      "title": "The Green Pulse of the Spire",
+      "words": 7077
+    },
+    {
+      "ch": 9,
+      "title": "The Specific Gravity of a Moment",
+      "words": 7077
+    },
+    {
+      "ch": 10,
+      "title": "The Sound of a Held Breath",
+      "words": 7077
+    },
+    {
+      "ch": 11,
+      "title": "A Fisherman of Souls",
+      "words": 7077
+    }
+  ]
+}
